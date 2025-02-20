@@ -1,6 +1,6 @@
 # Stats preview card component solution
 
-## Name: YOUR_NAME_HERE
+## Name: Juan Jose Campos Valderrama
 
 ## Table of contents
 
@@ -11,6 +11,9 @@
 - [Author](#author)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
+![image](https://github.com/user-attachments/assets/0bb14605-f03a-461a-89af-26b51f0b13c6)
+![image](https://github.com/user-attachments/assets/3a9e8916-ea6b-4801-a07d-cd1189da7876)
+
 
 ## Overview
 
