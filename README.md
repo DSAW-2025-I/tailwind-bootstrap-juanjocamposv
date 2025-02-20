@@ -1,6 +1,6 @@
 # Stats preview card component solution
 
-## Name: Juan Jose Campos Valderrama
+## Name: Juan Jose Campos Valderrama https://dsaw-2025-i.github.io/tailwind-bootstrap-juanjocamposv/
 
 ## Table of contents
 
